@@ -1,0 +1,34 @@
+-   id: agile-coach
+    descr: agilec coaching 
+    xp: 8
+-   id: project-management
+    descr: projec management
+    color: teal
+    xp: 7
+-   id: arch-des
+    descr: software architecture    
+    xp: 8
+-   id: java
+    descr: java    
+    xp: 8
+-   id: go
+    descr: golang    
+    xp: 7
+-   id: c
+    descr: c (c++)    
+    xp: 8
+-   id: docker
+    descr: docker
+    xp: 6
+-   id: ruby
+    descr: ruby
+    xp: 5
+-   id: python
+    descr: python (3.5)
+    xp: 3
+-   id: sysops
+    descr: system operations
+    xp: 6
+-   id: databases
+    descr: databases
+    xp: 4
