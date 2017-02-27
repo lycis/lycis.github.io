@@ -17,3 +17,16 @@ github_username:  lycis
 
 # Build settings
 markdown: kramdown
+
+#Profile information
+name: Ing. Daniel Eder
+tagline: Developer, Agile Coach
+pic: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: daniel@deder.at
+phone: (+43) 650 80 18 429
+website: deder.at
+linkedin: danieleder
+github: lycis
+twitter: '@ederdan'

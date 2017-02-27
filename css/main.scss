@@ -60,7 +60,6 @@ $on-laptop:        800px;
 }
 
 
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",  
@@ -69,5 +68,6 @@ $on-laptop:        800px;
         "colors",
         "helpers",
         "progressbar",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "contact"
 ;
