@@ -1,12 +1,18 @@
 -   id: 1
     title: QtDropbox    
     img: 1.jpg
-    width: 6
+    width: 3
     height: 2
     url: http://lycis.github.io/QtDropbox/
 -   id: 2
     title: Kami Game Driver 
-    img: 2.jpg
-    width: 6
+    img: shinto.png
+    width: 3
     height: 2
-    url: http://lycis.github.io/kami/
+    url: http://github.com/lycis/kami/
+-   id: 3
+    title: crirm - criteria based rm
+    img: crirm.png
+    width: 5
+    height: 2
+    url: https://github.com/lycis/crirm
