@@ -287,6 +287,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    padding: $spacing-unit * 2;
 
     h2 {
         font-size: 32px;
@@ -310,5 +311,14 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    p {
+        margin-top: 10px;
+        font-size: 16x
+    }
+
+    a {
+        color: $red-color;
     }
 }
