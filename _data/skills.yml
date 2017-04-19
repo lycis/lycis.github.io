@@ -14,18 +14,24 @@
 -   id: go
     descr: golang    
     xp: 7
+-   id: clean-code
+    descr: clean code
+    xp: 8
 -   id: c
     descr: c (c++)    
     xp: 8
 -   id: docker
     descr: docker
     xp: 6
+-   id: testing
+    descr: testing and qa
+    xp: 7
 -   id: ruby
     descr: ruby
     xp: 5
 -   id: python
     descr: python (3.5)
-    xp: 3
+    xp: 4
 -   id: sysops
     descr: system operations
     xp: 6
